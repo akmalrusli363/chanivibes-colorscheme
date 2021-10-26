@@ -1,0 +1,22 @@
+{
+  "name": "ChaniVibes",
+  "foreground": "#f0f0f0",
+  "background": "#080706",
+  "cursorColor": "#f0f0f0",
+  "black": "#10100e",
+  "red": "#e64629",
+  "green": "#aae629",
+  "yellow": "#f2cf1f",
+  "blue": "#2190ff",
+  "purple": "#e63766",
+  "cyan": "#15e681",
+  "white": "#cccccc",
+  "brightBlack": "#303029",
+  "brightRed": "#ff6e54",
+  "brightGreen": "#d3ff59",
+  "brightYellow": "#ffde59",
+  "brightBlue": "#47acff",
+  "brightPurple": "#ff5985",
+  "brightCyan": "#59ffac",
+  "brightWhite": "#ffffff"
+}
